@@ -8,8 +8,10 @@ _fonts/
 /dist
 /tmp
 
-# dependencies
-/node_modules
+# Node and bower modules and logs
+node_modules/
+npm-debug.log
+bower_components/
 
 # IDEs and editors
 /.idea
